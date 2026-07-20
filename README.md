@@ -2,18 +2,18 @@
 
 Introducción
 
-[1. Modelo de ensemble y propçosito ](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
+[1. Modelo de ensemble y propçosito ](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se-basan-para-mejorar-el-rendimiento-respecto-a-un-modelo-individual)
 
-[2. Diferencia conceptual entre Bagging y Boosting](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
+[2. Diferencia conceptual entre Bagging y Boosting](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#2-diferencia-conceptual-entre-bagging-y-boosting-mencionando-un-algoritmo-representativo-de-cada-t%C3%A9cnica)
 
 [3. Stacking como técnica de ensemble y cómo difiere su enfoque de
-Bagging y Boosting](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
+Bagging y Boosting](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#3-en-qu%C3%A9-consiste-el-stacking-como-t%C3%A9cnica-de-ensemble-y-c%C3%B3mo-difiere-su-enfoque-de-bagging-y-boosting)
 
-[4. Modelos de ensemble VS individuales, según el compromiso sesgo-varianza ](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
+[4. Modelos de ensemble VS individuales, según el compromiso sesgo-varianza ](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#4-por-qu%C3%A9-los-modelos-de-ensemble-suelen-lograr-mejor-generalizaci%C3%B3n-que-los-modelos-individuales-desde-la-perspectiva-del-compromiso-sesgo-varianza)
 
-[5. AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost, Voting Classifier](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
+[5. AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost, Voting Classifier](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#5-explicaci%C3%B3n-breve-de-adaboost-gradient-boosting-xgboost-lightgbm-catboost-voting-classifier)
 
-[6. Bibliografía](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
+[6. Bibliografía](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#bibliograf%C3%ADa)
 
 
 # 1. ¿Qué es un modelo ensemble en Machine Learning y cuál es su propósito?¿En que se basan para mejorar el rendimiento respecto a un modelo individual?
