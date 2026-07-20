@@ -4,7 +4,7 @@ Introducción
 
 [1. Modelo de ensemble y propçosito ](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
 
-[2. Diferencia conceptual entre Bagging y Boosting](https://ejemplo.com)
+[2. Diferencia conceptual entre Bagging y Boosting](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
 
 [3. Stacking como técnica de ensemble y cómo difiere su enfoque de
 Bagging y Boosting](https://github.com/Bootcamp-IA-MAD-P7/Tarea4-Modulo2-Veru#1-qu%C3%A9-es-un-modelo-ensemble-en-machine-learning-y-cu%C3%A1l-es-su-prop%C3%B3sitoen-que-se)
